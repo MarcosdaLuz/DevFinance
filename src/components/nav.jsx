@@ -3,7 +3,7 @@ import "../styles/nav.css"
 export default () => {
     return(
         <>
-            <img src="../assets/img/logo.svg" alt="" />
+            <img src="/src/assets/img/logo.svg" alt="" width={250}/>
         </>
 
 

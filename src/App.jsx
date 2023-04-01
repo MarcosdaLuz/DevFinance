@@ -14,8 +14,7 @@ return(
       <Card/>
       <div id='scroll'>
         <Table/>
-      </div>
-      
+      </div> 
     </main>
     <footer>
       <Footer/>
