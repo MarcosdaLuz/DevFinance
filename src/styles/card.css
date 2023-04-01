@@ -1,0 +1,42 @@
+section{
+    margin-top: -3rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+section div{
+    padding: 1.5rem;
+    width: 250px;
+    height: 100px;
+    display: block;
+    margin:auto;
+    border-radius: 4px;
+}
+
+section div h2{
+    display:flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+section div p{
+    font-size: 25px;
+}
+.income{
+    background-color: white;
+}
+.expense{
+    background-color: white;
+}
+.total{
+    background-color: #49AA26;
+    color: white;
+}
+
+@media  (max-width: 1150px) {
+    section div{
+        width: 100%;
+        margin-top: 10px;
+    }
+  }

@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+    border-spacing: 0px 3px;
+}
+
+th, td{
+    font-size: 18px;
+    padding:10px 20px;
+}
+
+tr{
+    font-size: 17px;
+    text-align: left;
+    border-radius: 4px;
+    background-color: white;
+}
+
