@@ -1,0 +1,48 @@
+
+.form{
+    margin: auto;
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    padding: 40px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.buttons .cancela{
+    display: flex;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    width: 50%;
+    border: red 1px solid;
+    border-radius: 5px;
+    margin-right: 10px;
+    height: 30px;
+}
+.buttons .send{
+    color: #ffffff;
+    height: 33px;
+    width: 50%;
+    background-color: #8A2BE2;
+    border: none;
+    border-radius: 5px;
+}
+form div{
+    display: flex;
+    margin: 5px;
+}   
+form div input{
+    
+    padding: 15px;
+    margin: 5px;
+    width: 400px;    
+}
+
+form div{
+    display: block;
+}
