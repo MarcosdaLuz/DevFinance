@@ -1,6 +1,15 @@
 
+.formFild{
+    position: relative;
+    display:none;
+    align-items: center;
+    justify-content: center;
+
+}
 .form{
-    margin: auto;
+    position:absolute;
+    top:50%;
+    transform: translate(0, -50%);
     height: 300px;
     width: 450px;
     background-color: white;
