@@ -3,8 +3,6 @@ import modal from '../scripts/newTransition.js'
 export default () =>{
     return(
     <>
-        
-        
         <div className='formFild'>
             <div className='form'>
                 <h3>Nova Transação</h3>
